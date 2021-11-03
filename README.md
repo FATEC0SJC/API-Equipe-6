@@ -29,3 +29,24 @@ Desenvolver um sistema para automatizar o processo de raspagem dos links githubs
 - Sprint 4 - 08/11/2021 a 28/11/2021
 - Apresentação Final - 29/11/2021 a 05/12/2021
 - Feira de Soluções - 16/12/2021
+- 
+# Resulado Sprint 1
+Resultado de conclusão na entrega sprint 1 temos:
+
+* Apresentaçao da clonagem projetos Fatec no GitHub do cliente, trazendo confiabilidade e preservação dos projetos.
+* Wireframe de cada Página:
+ <img src = "IMG/GIF wireframes.gif" width ="300px">
+
+* Clonagem Projetos Fatec:
+<img src = "IMG/GIF repositório.gif" width ="200px">
+
+# Resultado Sprint 2
+Resultado de conclusão na entrega sprint 2 temos:
+
+* Página Home:
+<img src = "IMG/GIF Pagina Projetos.gif" widht ="300px">
+
+* Automatização das raspagens, links dos projetos:
+<img src = "IMG/Raspagem 2020-1.gif" widht ="200px">
+<img src = "IMG/Raspagem 2020-2.gif" widht ="200px">
+<img src = "IMG/Raspagem 2021-1.gif" widht ="200px">
