@@ -4,15 +4,16 @@
 Desenvolver um sistema para automatizar o processo de raspagem dos links githubs dos APIs do site Fatec São José dos Campos, visando a disponibilização desses links através de uma página Web.
 
 # Equipe
- - Isabela Silva França de Sousa 
+ - Isabela Silva França de Sousa (Scrum Master)
+ - Gabriel dos Santos
  - Rita Hecht Fernandes Priante 
  - Rodrigo Diniz Goulart 
  - Vitor Landim Blumer
  - Wallace Marinho de Souza Silva 
- - William Claudimar Oliveira da Silva (Scrum Master)
+ - William Claudimar Oliveira da Silva 
 
- # Visão do Produto 
- O projeto API é um sistema criado nas linguagens HTML, CSS e Python, com o objetivo de armazenar e gerenciar projetos dos alunos da Fatec — SJC, evitando problemas como a perda ou alteração de arquivos, possibilitando  autonomia e controle total da própria instituição. 
+ # Objetivo
+ - Desenvolver um sistema para automatizar o processo de raspagem dos links githubs dos APIs do site Fatec São José dos Campos, visando a disponibilização desses links através de uma página Web.
 
  # Backlog do Produto 
 <img src = "IMG/BACKLOG.png" style="width:400px;height:600px;" >
@@ -55,3 +56,9 @@ Resultado de conclusão na entrega sprint 3 temos:
 
 * Site programado em HTML e CSS: 
 <p><img src = "IMG/GIF site.gif" width = "600px"></p>
+
+# Resultado Sprint 4
+Resultado de conclusão na entrega sprint 4 temos:
+
+- Ajustes no site:
+<p><img src = "IMG/GIF sprint 4.gif" width = "600px"></p>
